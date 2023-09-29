@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "Xtg8hNjHm8avXQlC1TNsxvCG6xRmFlHaj5MruoWvg1tK9z0bGHRoVd8sD7fAv1J1alo0tOnwB1KyH7Xyb6BzQA==",
+  "success": true,
+  "projectFilePath": "F:\\Minhas_Coisas\\1-Estudos\\TEC\\ProjetosPessoaisProgramacao\\BackEnd\\app-ideias\\binaryToDecimalAPI\\binaryToDecimalAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nailt\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.11\\microsoft.aspnetcore.openapi.7.0.11.nupkg.sha512",
+    "C:\\Users\\nailt\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\nailt\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\nailt\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\nailt\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\nailt\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\nailt\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
